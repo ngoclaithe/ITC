@@ -1,0 +1,38 @@
+.container-custom {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.item-custom {
+    width: 70%;
+    height: 650px;
+    padding: 20px 20px;
+    background-image: url(https://csc.edu.vn/template/frontend/images/thong-tin-background-tech.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.tiep-tuc {
+    display: flex;
+    justify-content: space-between;
+}
+.item-main-custom {
+    width: 100%;
+}
+.item-main-custom {
+    background-color: rgb(255, 255, 255, .7);
+    height: 100%;
+    padding: 20px;
+}
+.item-main-custom * {
+    color: #000;
+}
+
+.tieu-de-dang-ky {
+    font-size: 19px;
+}
+
+.btn-next {
+    color: white;
+}
